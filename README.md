@@ -2,7 +2,7 @@
 
 - 🌱 I’m currently learning **ReactJs**
 
-- 👨‍💻 All of my projects are available at [https://goktug.info/](http://goktugkarabulut.com/)
+- 👨‍💻 All of my projects are available at [https://goktug.info/](https://goktug.info/)
 
 - 💬 Ask me about **Javascript, Boostrap, Web Design, Figma**
 
