@@ -8,7 +8,7 @@
 
 - 📫 How to reach me **goktugkarabulut97@gmail.com**
 
-- ⚫️ You can follow me on <a href="https://linkedin.com/in/göktuğ-karabulut-153a64191/?originalSubdomain=tr" target="blank">Linkedln</a>
+- ⚫️ We can follow on <a href="https://linkedin.com/in/göktuğ-karabulut-153a64191/?originalSubdomain=tr" target="blank">Linkedln</a>
 
 
 
