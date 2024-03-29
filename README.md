@@ -2,11 +2,11 @@
 
 - 🌱 I’m currently learning **ReactJs**
 
-- 👨‍💻 All of my projects are available at [https://goktug.info/](https://goktug.info/)
+- 👨‍💻 All of my projects are available at [https://goktug.bio/](https://goktug.bio/)
 
-- 💬 Ask me about **Javascript, Boostrap, Web Design, Figma**
+- 💬 Ask me about **Javascript, ReactJs, Web Design, SCSS, CSS**
 
-- 📫 How to reach me **hello@goktugkarabulut.com**
+- 📫 How to reach me **goktugkarabulut97@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
