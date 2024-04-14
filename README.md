@@ -1,8 +1,8 @@
 
 
-- 🌱 I’m currently learning **ReactJs**
+- 🌱 I’m currently learning **React**
 
-- 💬 Ask me about **Javascript, ReactJs, Web Design, SCSS, CSS**
+- 💬 Ask me about **Javascript, React, Web Design, SCSS, CSS**
 
 - 👨‍💻 All of my projects are available at [https://goktug.bio/](https://goktug.bio/)
 
