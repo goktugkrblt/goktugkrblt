@@ -4,7 +4,7 @@
 
 - 💬 Ask me about **Javascript, React, Web Design, SCSS, CSS**
 
-- 👨‍💻 All of my projects are available at [https://goktug.bio/](https://goktug.bio/)
+- 👨‍💻 All of my projects are available at [https://goktug.info/](https://goktug.info/)
 
 - 📫 How to reach me goktugkarabulut97@gmail.com
 
