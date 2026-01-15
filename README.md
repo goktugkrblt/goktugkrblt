@@ -1,4 +1,4 @@
-
+[![GitCheck Score](https://gitcheck.me/api/badge/goktugkrblt)](https://gitcheck.me/dashboard/goktugkrblt)
 
 ### Göktuğ • Frontend Developer  
 I build fast, minimal and purposeful interfaces.  
